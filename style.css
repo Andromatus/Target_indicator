@@ -1,0 +1,111 @@
+.window_target{
+  width: 350px;
+  height: 150px;
+  border: 1px solid #666666;
+  border-radius: 5px;
+  background-color: #F2F2F2;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -moz-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  -o-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+.target_header{
+  height: 35px;
+  width: 350px;
+  background-color:#4A4949;
+  border-radius: 1px;
+  color: white;
+}
+.header_text{
+ padding-top: 8px;
+ padding-left: 10px;
+}
+.restangle_target{
+  margin-top: 12px;
+  margin-left: 13px;
+  height: 90px;
+  width: 320px;
+  background-color: white;
+  border-radius: 5px;
+  border: 1px solid #D5D3D3;
+}
+.indicator_target{
+  position: absolute;
+  height: 12px;
+  width: 115px;
+  background-color: #CECECE;
+  margin-top: 26px;
+  margin-left: 119px;
+}
+
+.square_target{
+  
+  text-align: center;
+  color:white;
+  width: 50px;
+  height: 40px;
+  background-color: #898688;
+  border-radius: 5px;
+  border: 1px solid #BEBBBB;
+  margin-left: 235px;
+  margin-top: 10px;
+}
+
+
+.text_underline{
+   border-bottom: 2px solid #817979;
+  font-size: 10pt;
+}
+.dollar{
+  font-size: 15pt;
+}
+.reached{
+  position: absolute;
+  font-size: 11pt;
+  margin-top: 23px;
+  margin-left: 40px;
+  color: #656A6F;
+  font-weight: bold;
+}
+.triangle-up {
+  position: absolute;
+  width: 0;
+	height: 0;
+	border-left: 5px solid transparent;
+	border-right: 5px solid transparent;
+	border-bottom: 7px solid #565555;
+  margin-top: 40px;
+  margin-left: 220px;
+}
+.triangle_dollar{
+   position: absolute;
+  font-size: 9pt;
+  margin-top: 48px;
+  margin-left: 214px;
+  color: #656A6F;
+  font-weight: bold; 
+}
+.blue_indicator{
+  height: 6px;
+  width: 103px;
+  background-color: #0489D1;
+  margin-top: 3px;
+  margin-left: 4px;
+}
+.footer{
+  position: absolute;
+  text-align: center;
+  margin-left: 60px;
+  margin-top: 65px;
+  color: #656A6F;
+  font-size: 10pt;
+}
+.icon{
+  position: absolute;
+  margin-top: 62px;
+  margin-left: 35px;
+}
